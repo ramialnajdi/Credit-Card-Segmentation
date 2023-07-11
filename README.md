@@ -1,8 +1,6 @@
 # Credit-Card-Segmentation
 The goal of this project is to develop marketing strategies that can be useful for making right decisions
 
-
-
 ## About Dataset
 
 The file is at a customer level with 18 behavioral variables.
@@ -46,3 +44,8 @@ PRCFULLPAYMENT : Percent of full payment paid by user
 TENURE : Tenure of credit card service for user
 
 Dataset Link:https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
+
+## Tools
+pandas - nmpy - seaborn - matplotlib - sklearn
+## Environment
+kaggle
