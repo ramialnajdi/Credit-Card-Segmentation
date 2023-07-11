@@ -2,6 +2,7 @@
 The goal of this project is to develop marketing strategies that can be useful for making right decisions
 
 
+
 ## About Dataset
 
 The file is at a customer level with 18 behavioral variables.
