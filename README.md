@@ -1,7 +1,8 @@
 # Credit-Card-Segmentation
 The goal of this project is to develop marketing strategies that can be useful for making right decisions
 
-## Dataset:
+
+## About Dataset
 
 The file is at a customer level with 18 behavioral variables.
 
@@ -41,7 +42,6 @@ MINIMUM_PAYMENTS : Minimum amount of payments made by user
 
 PRCFULLPAYMENT : Percent of full payment paid by user
 
-Dataset Link:https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
-
 TENURE : Tenure of credit card service for user
 
+Dataset Link:https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
